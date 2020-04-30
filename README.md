@@ -9,4 +9,5 @@ in splitter window there is a bug if your windows dpi setting is different than 
 https://forums.wxwidgets.org/viewtopic.php?t=44307
 
 1. really helpfull informations about sizers with pictures
+
 http://neume.sourceforge.net/sizerdemo/
